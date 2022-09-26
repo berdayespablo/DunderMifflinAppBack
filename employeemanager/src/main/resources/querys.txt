@@ -1,0 +1,12 @@
+http://localhost:8080/employee/add
+
+{
+        "id": 1,
+        "name": "Michael Scott",
+        "jobTitle": "Manager",
+        "performer": "Steve Carell",
+        "quote": "That’s what she said",
+        "imageUrl": "https://depor.com/resizer/VmVqcAooduGAHYUTg2cIjlhpEKg=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/5OGH53R6YBEDNPQ2IJQKFHBO4Y.jpg",
+        "employeeCode": "878edd23-d4dc-41e6-ac20-23f958583757"
+
+}
